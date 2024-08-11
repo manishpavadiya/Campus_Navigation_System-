@@ -1,7 +1,7 @@
 # Campus_Navigation_System-
 
-# Campus-Navigation-System
-//code file will be opened with google-colabb.
+
+
 
 Overview:
 The Campus Navigation System is designed to assist students, faculty, and visitors in navigating the campus efficiently. The system provides real-time guidance and optimizes routes within the campus premises, enhancing the overall navigational experience.
